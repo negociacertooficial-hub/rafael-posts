@@ -1,0 +1,120 @@
+{
+ "V1": {
+  "title": "O governo vai comprar sua dívida?",
+  "lines": [
+   "O governo vai comprar a sua dívida?",
+   "Calma. Olha o que é verdade.",
+   "O Desenrola 3 ponto 0 é para dívida de cartão e crédito pessoal.",
+   "De até 10 mil reais no valor original.",
+   "E com 2 a 4 anos e meio de atraso.",
+   "Primeiro os bancos oferecem essas dívidas ao governo.",
+   "Só depois disso vem a negociação com você.",
+   "Hoje você não precisa fazer nada.",
+   "E quem cobrar taxa pra te colocar no programa, desconfie.",
+   "Sua dívida não se encaixa? Dá pra negociar do mesmo jeito.",
+   "Comenta o nome do banco que você deve, que eu te mando a aula gratuita."
+  ]
+ },
+ "V2": {
+  "title": "Mutirão de dívidas até 30/11",
+  "lines": [
+   "Até 30 de novembro os bancos estão num mutirão de negociação de dívidas.",
+   "São mais de 160 instituições.",
+   "Entra cartão de crédito, cheque especial e outras dívidas atrasadas.",
+   "Você negocia no app do banco ou no Consumidor ponto gov.",
+   "Mas cuidado com a primeira proposta.",
+   "Muitas vezes o desconto vem em cima do valor com juros.",
+   "Antes de aceitar, faz a conta do seu valor alvo.",
+   "O que você usou, menos o que você já pagou.",
+   "Se a proposta passar muito disso, não é desconto.",
+   "Comenta o nome do banco que você deve, que eu te mando a aula gratuita."
+  ]
+ },
+ "V3": {
+  "title": "Deve num desses bancos?",
+  "lines": [
+   "Se você deve num desses bancos, presta atenção.",
+   "Cada banco tem um tempo pra fazer uma proposta boa.",
+   "No Itaú e no Santander, costuma ser perto de 90 dias de atraso.",
+   "No Nubank e no Bradesco, perto de 180 dias.",
+   "No Banco do Brasil, perto de 1 ano.",
+   "Isso é o que a gente vê negociando todo dia. Não é regra.",
+   "E esperar sozinho não resolve.",
+   "Você precisa negociar com o seu valor alvo na mão.",
+   "Comenta o nome do seu banco, que eu te mando a aula gratuita."
+  ]
+ },
+ "V4": {
+  "title": "O que escrever no Consumidor.gov",
+  "lines": [
+   "Vai reclamar do banco no Consumidor ponto gov?",
+   "Não escreve só que quer um desconto.",
+   "Coloca 3 informações.",
+   "Primeiro: quanto você realmente usou no cartão.",
+   "Segundo: quanto você já pagou, entre mínimos e parcelamentos.",
+   "Terceiro: quanto cabe no seu bolso por mês.",
+   "E termina pedindo a proposta por escrito, sem juros.",
+   "O banco tem prazo pra te responder, e fica tudo registrado.",
+   "Comenta o nome do banco que você deve, que eu te mando a aula gratuita."
+  ]
+ },
+ "V5": {
+  "title": "O gerente mandou vender o carro?",
+  "lines": [
+   "Respondendo o comentário:",
+   "Devo 100 mil no cartão e o gerente mandou vender o meu carro.",
+   "Antes de vender qualquer coisa, faz essa conta.",
+   "Quanto você realmente usou?",
+   "Exemplo: você usou 45 mil e já pagou 20 mil.",
+   "Seu valor alvo é 25 mil. Não 100.",
+   "Os outros 75 são juros em cima de juros.",
+   "Vender o carro pra pagar juros é perder duas vezes.",
+   "Cada caso é um caso. Mas primeiro, o valor alvo.",
+   "Comenta o nome do banco que você deve, que eu te mando a aula gratuita."
+  ]
+ },
+ "V6": {
+  "title": "Golpe do Desenrola",
+  "lines": [
+   "Recebeu essa mensagem? Não clica.",
+   "Desenrola 3 ponto 0: sua dívida de 8 mil sai por 400 reais. Pague a taxa por Pix.",
+   "Isso é golpe.",
+   "A negociação do Desenrola 3 ponto 0 ainda nem começou.",
+   "Primeiro os bancos oferecem as dívidas ao governo.",
+   "Só depois disso vem a negociação com você.",
+   "Ninguém cobra taxa pra te colocar no programa.",
+   "E nunca pague acordo por Pix pra conta de pessoa física.",
+   "Manda esse vídeo pra quem está esperando o Desenrola.",
+   "E comenta o nome do banco que você deve, que eu te mando a aula gratuita."
+  ]
+ },
+ "V7": {
+  "title": "Sua dívida entra no Desenrola?",
+  "lines": [
+   "Sua dívida entra no Desenrola 3 ponto 0? Faz o teste em 3 perguntas.",
+   "Primeira: é dívida de cartão de crédito ou crédito pessoal?",
+   "Consignado não entra.",
+   "Segunda: o valor original era de até 10 mil reais?",
+   "Terceira: está atrasada há mais de 2 anos e menos de 4 anos e meio?",
+   "Respondeu sim pras 3? Ela pode entrar.",
+   "Pode. Não é garantido. É o banco que escolhe quais dívidas oferecer.",
+   "Respondeu não? Calma. Dá pra negociar do mesmo jeito.",
+   "Comenta o nome do banco que você deve, que eu te mando a aula gratuita."
+  ]
+ },
+ "V8": {
+  "title": "De onde vem o desconto de 90%?",
+  "lines": [
+   "Desconto de 90 por cento na dívida. De onde vem esse número?",
+   "No Desenrola 3 ponto 0, o governo compra dívidas antigas dos bancos.",
+   "Com no mínimo 90 por cento de desconto.",
+   "Uma dívida de 10 mil reais, o banco vende por mil.",
+   "Ou seja: pro banco, a sua dívida antiga vale muito menos do que ele te cobra.",
+   "Se o banco aceita vender por 10 por cento,",
+   "por que você aceitaria pagar 100?",
+   "É por isso que dá pra negociar.",
+   "Com o seu valor alvo na mão.",
+   "Comenta o nome do banco que você deve, que eu te mando a aula gratuita."
+  ]
+ }
+}
