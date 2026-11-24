@@ -5,5 +5,3 @@ Comenta o nome do banco que você deve (ou CARTÃO) que eu te mando a aula gratu
 Usou R$ 70 mil no cartão e o banco está cobrando R$ 100 mil?
 
 Exemplo: usou R$ 70 mil e já pagou R$ 10 mil entre mínimos e parcelamentos. A negociação parte dos R$ 60 mil que faltam, não dos R$ 100 mil que o banco cobra, buscando parcelar sem juros.
-
-Cada caso é um caso.
